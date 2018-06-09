@@ -1,0 +1,8 @@
+TestResults
+
+.vs
+
+bin
+obj
+
+*.user
